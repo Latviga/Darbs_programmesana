@@ -19,7 +19,7 @@ print(5**2)
 #8)Mâlkalns Kristaps
 
 #9)Ruòìis Kristaps
-
+print(69**2)
 #10)Segliòð Jçkabs
 
 #11)Serþante Agate
